@@ -67,7 +67,7 @@ export const Badge = (props: Props) => {
           color: props.poweredByTextColor ?? defaultTextColor,
         }}
       >
-        <span> Aiworker</span>
+        <span> Aiworker.eu</span>
       </a>
     </span>
   );
