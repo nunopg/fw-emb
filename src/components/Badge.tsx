@@ -57,7 +57,7 @@ export const Badge = (props: Props) => {
       Powered by
       <a
         ref={liteBadge}
-        href={"https://leonvanzyl.com"}
+        href={"https://aiworker.eu"}
         target="_blank"
         rel="noopener noreferrer"
         class="lite-badge"
@@ -67,7 +67,7 @@ export const Badge = (props: Props) => {
           color: props.poweredByTextColor ?? defaultTextColor,
         }}
       >
-        <span> Leon van Zyl</span>
+        <span> Aiworker</span>
       </a>
     </span>
   );
